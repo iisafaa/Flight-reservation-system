@@ -1,0 +1,4 @@
+name		ID		address		mobile number		email		salary
+safaa		44101		Al-Addel	0551345638	s44101@hotmail.com	1000
+alaa		44102		Al-Azizh	0508476589	s44102@hotmail.com	2000
+wessal		44103		Al-Awaly	0539576897	s44103@hotmail.com	3000
